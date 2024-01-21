@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Laza</string>
+    <string name="gender_screen_heading">Look Good, Feel Good</string>
+    <string name="gender_screen_men">Man</string>
+    <string name="gender_screen_women">Woman</string>
+    <string name="gender_screen_skip">Skip</string>
+    <string name="gender_screen_description">Create your individual &amp; unique style and\nlook amazing everyday</string>
+
+    // Social Screen
+    <string name="social_screen_title">Let\'s Get Started</string>
+    <string name="social_screen_facebook">Facebook</string>
+    <string name="social_screen_twitter">Twitter</string>
+    <string name="social_screen_google">Google</string>
+
+    // Sign Up Screen
+    <string name="signup_screen_sub_title">Please Enter your data to continue</string>
+    <string name="signup_screen_forgot_password">Forgot Password</string>
+    <string name="signup_screen_remember_me">Remember me</string>
+    <string name="signup_screen_signup">Sign Up</string>
+    <string name="signup_username">User Name</string>
+    <string name="signup_password">User Name</string>
+    <string name="signup_email">User Name</string>
+
+    // Sign In Screen
+    <string name="signin_screen_title">Welcome</string>
+    <string name="signin_forgot">Forgot Password</string>
+    <string name="signin_term_label">By connecting your account confirm that you\n agree with our</string>
+    <string name="signin_terms_condition">Terms and Conditions</string>
+    <string name="signin_label">Sign In</string>
+
+    // Forgot Password
+    <string name="password_screen_title">Forgot Password</string>
+    <string name="password_confirm">Confirm</string>
+    <string name="password_screen_description">Please write your email to receive a\nconfirmation code to set a new password</string>
+
+</resources>
